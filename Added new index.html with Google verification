@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sujit Mondal - Lifestyle</title>
+    <meta name="google-site-verification" content="CkLFjhdHCnhhRdSigIJWABO0t36hIv7bNkW2ya25g00" />
+    <style>
+        body { font-family: Arial, sans-serif; background: #f9f9f9; color: #333; margin: 20px; }
+        .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 8px; }
+        h1 { color: #0077cc; }
+        img { max-width: 100%; border-radius: 8px; }
+        p { line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sujit Mondal - Lifestyle Vibe</h1>
+        <img src="profile.jpg" alt="Sujit Mondal" />
+        <p>Welcome to my lifestyle channel. Follow me for daily updates and interesting content.</p>
+    </div>
+</body>
+</html>
